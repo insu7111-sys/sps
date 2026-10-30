@@ -1,0 +1,58 @@
+[
+  {
+    "id": "kitchen-001",
+    "category": "주방",
+    "title": "채소 손질 시간을 줄이는 아이디어",
+    "description": "반복되는 준비 과정을 간편하게 바꿔보세요.",
+    "name": "다용도 채소 손질 도구",
+    "priceLabel": "가격 확인",
+    "emoji": "🥬",
+    "background": "linear-gradient(145deg,#436b49,#15251b)",
+    "videoUrl": "",
+    "imageUrl": "",
+    "affiliateUrl": "PASTE_YOUR_COUPANG_PARTNERS_LINK_HERE",
+    "tags": ["채소", "주방", "손질", "요리"]
+  },
+  {
+    "id": "life-001",
+    "category": "생활",
+    "title": "청소가 귀찮은 날을 위한 작은 도구",
+    "description": "자주 쓰는 공간부터 간단하게 관리해요.",
+    "name": "틈새 청소 브러시",
+    "priceLabel": "가격 확인",
+    "emoji": "🧹",
+    "background": "linear-gradient(145deg,#456d83,#17232c)",
+    "videoUrl": "",
+    "imageUrl": "",
+    "affiliateUrl": "PASTE_YOUR_COUPANG_PARTNERS_LINK_HERE",
+    "tags": ["청소", "브러시", "생활", "욕실"]
+  },
+  {
+    "id": "digital-001",
+    "category": "디지털",
+    "title": "책상 위를 깔끔하게 정리하는 방법",
+    "description": "자주 사용하는 기기를 편리하게 배치하세요.",
+    "name": "데스크 케이블 정리 세트",
+    "priceLabel": "가격 확인",
+    "emoji": "🔌",
+    "background": "linear-gradient(145deg,#66558d,#211a31)",
+    "videoUrl": "",
+    "imageUrl": "",
+    "affiliateUrl": "PASTE_YOUR_COUPANG_PARTNERS_LINK_HERE",
+    "tags": ["디지털", "책상", "케이블", "정리"]
+  },
+  {
+    "id": "storage-001",
+    "category": "정리",
+    "title": "자투리 공간도 알뜰하게 활용하기",
+    "description": "물건마다 자리를 정하면 찾기도 쉬워져요.",
+    "name": "공간 활용 수납 정리함",
+    "priceLabel": "가격 확인",
+    "emoji": "🧺",
+    "background": "linear-gradient(145deg,#9a7650,#302319)",
+    "videoUrl": "",
+    "imageUrl": "",
+    "affiliateUrl": "PASTE_YOUR_COUPANG_PARTNERS_LINK_HERE",
+    "tags": ["수납", "정리", "정리함", "공간"]
+  }
+]
